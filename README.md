@@ -31,7 +31,13 @@ Solo learning version of my SkyPredict team project — predicting Remaining Use
 **🔹 [AI Resume Reviewer](https://github.com/R7ben/ai-resume-reviewer)**  
 A Streamlit app that analyzes resumes against job descriptions and provides AI-powered feedback on match strength, gaps, and improvements.  
 `Python` `Streamlit` `LLM` `Prompt Engineering`
+---
 
+### 📊 GitHub stats
+
+![Ruben's GitHub stats](https://github-readme-stats.vercel.app/api?username=R7ben&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R7ben&layout=compact&theme=default&hide_border=true)
 ---
 
 ### 📜 Certifications
