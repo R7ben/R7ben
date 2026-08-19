@@ -46,10 +46,7 @@ Three tools in one deployed app: **Chat with your PDF** (RAG-powered document Q&
 Solo learning version of my SkyPredict team project — predicting Remaining Useful Life of aircraft turbofan engines using NASA's C-MAPSS FD001 dataset with Random Forest and XGBoost.  
 `Python` `XGBoost` `scikit-learn` `Regression` `Predictive Maintenance`
 
-**🔹 [AI Resume Reviewer](https://github.com/R7ben/ai-resume-reviewer)**  
-A Streamlit app that analyzes resumes against job descriptions and provides AI-powered feedback on match strength, gaps, and improvements.  
-`Python` `Streamlit` `LLM` `Prompt Engineering`
----
+--
 
 ### 📜 Certifications
 
