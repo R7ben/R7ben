@@ -8,6 +8,6 @@ Applied AI student at UTM Kuala Lumpur. I build practical AI applications with P
 - [AI Resume Reviewer](https://github.com/R7ben/ai-resume-reviewer) — LLM-powered resume feedback application.
 
 ## Links
-- Portfolio: _add your portfolio URL_
+- Portfolio: https://portfolio-beta-five-6wdx4dtj3x.vercel.app/
 - LinkedIn: www.linkedin.com/in/sapttaruben-krishnan
 - Email: sapttaruben06@gmail.com
